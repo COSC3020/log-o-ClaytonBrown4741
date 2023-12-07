@@ -32,4 +32,4 @@ Therefore, $T(n) \in O(\log_{2} n)$
   
 We have now proved that $\forall T(n) \in O(\log_{2}) \implies T(n) \in O(\log_{5})$ and vice versa.  
 This is because we have proved that the only thing separating the two logorithms from each other is a constant, and using the  
-definition shown above, this means that they are the same asymptotically speaking.
+definition shown above, this means that they are the same asymptotically speaking.  
